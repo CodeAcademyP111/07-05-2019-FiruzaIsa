@@ -9,14 +9,7 @@
 // }
 // thenumberofwords(say,soz);
 
-// var eded = Number(prompt("eded goster"))
 
-
-// function findcount (num,count){
-//     for (var i=0; i<count; i++){
-
-//     }
-// }
  
 
 
